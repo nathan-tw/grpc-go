@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/golang/protobuf v1.4.2
+	github.com/tutorialedge/go-grpc-tutorial v0.0.0-20200509091100-f8d1b5b15b01
 	golang.org/x/net v0.0.0-20200822124328-c89045814202
 	golang.org/x/sys v0.0.0-20200826173525-f9321e4c35a6 // indirect
 	golang.org/x/text v0.3.3 // indirect
